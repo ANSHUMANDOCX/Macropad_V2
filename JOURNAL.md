@@ -9,7 +9,7 @@
 
 Started out by planning the number of I/O pins I would require. Since I will be using KMK, I need to find a board with enough GPIOs and also supports CircuitPython. After searching for a bit, I decided on using the SparkFun Pro Micro RP2040.
 
-Time Spent= 1.5hr
+**Time Spent= 1.5hr**
 
 ---
 
@@ -21,6 +21,15 @@ There is pad under the RP2040 that connects to the onboard rgb led i will be uti
 
 ![image](https://github.com/user-attachments/assets/1c466863-970e-4da0-a3bf-179beaf860fe)
 
-Time Spent = 1.5hr
+**Time Spent = 1.5hr**
+
+---
+# **DAY 3 - 4th June : Started out with the PCB layout**
+Started and complted the PCB layout and Routing. Used the Keyboard layout website to generate the layout and used the Kicad plugin to arrange the keys. 
+
+![image](https://github.com/user-attachments/assets/f444d515-379d-4082-a875-a946fd4f3278)
+
+**Time Spent- 2hr**
+
 ---
 
