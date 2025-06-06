@@ -25,6 +25,7 @@ There is pad under the RP2040 that connects to the onboard rgb led i will be uti
 
 ---
 # **DAY 3 - 4th June : Started out with the PCB layout**
+
 Started and complted the PCB layout and Routing. Used the Keyboard layout website to generate the layout and used the Kicad plugin to arrange the keys. 
 
 ![image](https://github.com/user-attachments/assets/f444d515-379d-4082-a875-a946fd4f3278)
@@ -33,3 +34,11 @@ Started and complted the PCB layout and Routing. Used the Keyboard layout websit
 
 ---
 
+# **DAY 4 - 6 June: Started out with the 3d model**
+
+Complted the PCB and added the mounting holes for the PCB and started and completed the Base plate of the case
+
+![image](https://github.com/user-attachments/assets/788db24c-838c-47b5-bb24-2164372c27d4)
+
+**Time Spent- 2hr**
+---
