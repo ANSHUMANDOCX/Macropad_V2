@@ -42,3 +42,12 @@ Complted the PCB and added the mounting holes for the PCB and started and comple
 
 **Time Spent- 2hr**
 ---
+# **DAY 5 - 7 June: Completed the CAD**
+
+Started out with the front plate for the case and complted it. Also imported the PCB step file and checked all the fitting and complted the cad Modelling. Generated the cutouts for the keys from a website. Had to make many iterations for the front plate to make it a proper fit.
+
+![image](https://github.com/user-attachments/assets/eb685503-8581-4f17-9959-5ede198b3fe6)
+![image](https://github.com/user-attachments/assets/a23a0130-67c2-449a-893e-647a78857138)
+
+
+**Time Spent- 3hr**
