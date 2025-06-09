@@ -3,6 +3,7 @@
 - **Author:** Anshuman Tripathy
 - **Description:** Macropad with 20 keys 2 encoders and 2 sliding potentiometers as analog input along with a Oled Display 
 - **Created_at:** 2025-06-02
+- Total Time Spent: 10 hr
 ----
 
 # **DAY 1- 2 June: Choosing the MCU**
