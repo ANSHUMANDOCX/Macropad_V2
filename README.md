@@ -38,10 +38,11 @@ The OLED screen will be attached via the QWIIC connector onboard.
 | Rotary Encoder (DIP-5)           | LCSC             | 3.01        |
 | PTA6043 Potentiometer (10kΩ)     | LCSC             | 3.37        |
 | 1N4148 Diode                     | LCSC             | 0.84        |
-| SSD1306 0.91" OLED Display       | LCSC             | 2.01        |
+|WS2812B 2020 RGB led              | LCSC             | 1.67        |
+|SSD1306 0.91" OLED Display       | LCSC             | 2.01        |
 | Shipping (LCSC)                  | LCSC              |  3.73       |
 | RP2040 Pro Micro + Qwiic        | Electronics Comp | 19.43       |
 | Keycaps and Keys                | Stackskb         | 15.88       |
 | PCB                              | JLCPCB           | 9.00        |
 | Shipping                          | JLCPCB           | 14.00       |
-| **Total**                        |                  | **71.61**   |
+| **Total**                        |                  | **$73.28**   |
