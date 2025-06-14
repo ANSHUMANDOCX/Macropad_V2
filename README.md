@@ -27,7 +27,7 @@ The OLED screen will be attached via the QWIIC connector onboard.
 ## PCB and Case
 
 ![PCB](https://github.com/user-attachments/assets/41598014-921c-4914-a805-9e94776da4a5)![PCB 3D](https://github.com/user-attachments/assets/eb6d715c-195a-485b-98dd-6f98de583ed2)  
-![Image](https://github.com/user-attachments/assets/0433850d-3720-4474-8c08-68e4c701633a)
+![image](https://github.com/user-attachments/assets/85b6b427-408a-4585-9731-09c8eaae9825)
 
 ## BOM 
 ### 📦 Component Cost Table
