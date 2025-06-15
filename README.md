@@ -26,8 +26,11 @@ The OLED screen will be attached via the QWIIC connector onboard.
 
 ## PCB and Case
 
-![PCB](https://github.com/user-attachments/assets/41598014-921c-4914-a805-9e94776da4a5)![PCB 3D](https://github.com/user-attachments/assets/eb6d715c-195a-485b-98dd-6f98de583ed2)  
-![image](https://github.com/user-attachments/assets/85b6b427-408a-4585-9731-09c8eaae9825)
+![image](https://github.com/user-attachments/assets/e42be3b8-7988-4dc3-9d23-640f70d91f03)
+![image](https://github.com/user-attachments/assets/b2a50ad9-cabd-49ae-9ad5-298939459c0c)
+![image](https://github.com/user-attachments/assets/d5b3bbad-2846-4d30-97e7-8c9c928f1a3e)
+
+
 
 ## BOM 
 ### 📦 Component Cost Table
@@ -40,9 +43,11 @@ The OLED screen will be attached via the QWIIC connector onboard.
 | 1N4148 Diode                     | LCSC             | 0.84        |
 |WS2812B 2020 RGB led              | LCSC             | 1.67        |
 |SSD1306 0.91" OLED Display       | LCSC             | 2.01        |
+| SL2.1A                          | LCSC             |1.22 |
+| USB A Female                    | LCSC             |0.74 |
 | Shipping (LCSC)                  | LCSC              |  3.73       |
 | RP2040 Pro Micro + Qwiic        | Electronics Comp | 19.43       |
 | Keycaps and Keys                | Stackskb         | 15.88       |
 | PCB                              | JLCPCB           | 9.00        |
 | Shipping                          | JLCPCB           | 14.00       |
-| **Total**                        |                  | **$73.28**   |
+| **Total**                        |                  | **$75.24**   |
