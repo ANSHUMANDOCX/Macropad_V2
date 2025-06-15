@@ -3,7 +3,7 @@
 - **Author:** Anshuman Tripathy
 - **Description:** Macropad with 20 keys 2 encoders and 2 sliding potentiometers as analog input along with a Oled Display 
 - **Created_at:** 2025-06-02
-- Total Time Spent: 12 hr
+- Total Time Spent: 14 hr
 ----
 
 # **DAY 1- 2 June: Choosing the MCU**
@@ -56,12 +56,14 @@ Started out with the front plate for the case and complted it. Also imported the
 # **DAY 6 - 15 June: Made Slight asthetical changes**
 
 added a ~5 degree tilt to the macropad, Designed Knobs( had planned to use premade one but decided not to) also added a translucent mid layer for having a better rgb look. 
+Also added the feaure of a usb hub a the empty place that was above the MCU. it has 3 ports. 
 
 ![image](https://github.com/user-attachments/assets/2ce3232c-d99d-4d77-b93a-3be6ed60c192)
 ![image](https://github.com/user-attachments/assets/22a24f21-bd23-4ee8-878a-6efaf25336af)
-![image](https://github.com/user-attachments/assets/93c818cb-0dfd-4a79-9fe1-cac0124ca25e)
+![image](https://github.com/user-attachments/assets/2a5bf920-9a21-404e-a3ab-a58d5b8ddf37)
 
-Time spent 2hr
+
+**Time spent 4hr**
 
 
 
